@@ -1,0 +1,28 @@
+.footer{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;	
+}
+@media (max-width: 768px){
+	.no_small{
+		display:none;
+	}
+}
+.input_margins{
+	margin-left:15px;
+	margin-top:10px;
+}
+.headliner{
+	background-color: #add8e6;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.long_cell{
+	max-width:500px;
+	word-break: break-all;
+	word-wrap: break-word;
+}
+.table_color{
+	background-color:#d3d3d3
+}
