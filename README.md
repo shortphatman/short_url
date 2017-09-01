@@ -3,7 +3,8 @@
 Transforms any url to a short version to be easily used
 
 ## Requirements
-Multiviews Options must be enabled for this to work
+* Multiviews Options must be enabled for this to work
+* http:// or https// must precent long url for it to work
 
 ## Database
 MySQL
