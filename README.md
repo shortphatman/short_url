@@ -2,6 +2,9 @@
 ## Summary: 
 Transforms any url to a short version to be easily used
 
+## Requirements
+Multiviews Options must be enabled for this to work
+
 ## Database
 MySQL
 
